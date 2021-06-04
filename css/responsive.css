@@ -1,0 +1,772 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    .top-header{
+        padding: 15px 0;
+    }
+    .nav>li>a {
+        padding: 10px 10px;
+    }
+    .navbar-default .modal_btn a {
+        width: 190px;
+    }
+    .header-fixed .navbar-default .modal_btn a {
+        width: 190px;
+    }
+
+    .face h1 br{display: none}
+
+    .trest .trestab p {
+        font-size: 21px;
+    }
+
+    .girl .colba {
+        height: auto;
+    }
+    .obrazh .item {
+        height: 230px;
+    }
+
+    .caruzo .prev.slick-arrow {
+        left: 0px;
+    }
+
+    .caruzo .next.slick-arrow {
+        right: 0;
+    }
+
+    footer .logo_wrapers .phone2 {
+        font-size: 21px;
+    }
+
+    footer .menu_wraps ul li a {
+        font-size: 15px;
+        padding: 0 25px 0 0;
+    }
+
+    footer h4 {
+        font-size: 15px;
+    }
+
+    .tarifs1 .top_text h4 {
+        font-size: 20px;
+        line-height: 130%;
+    }
+
+    .stoim .columns__container .columns__item p {
+        font-size: 18px;
+    }
+
+    .efim p {
+        font-size: 20px;
+    }
+
+    .efim span.rert {
+        font-size: 16px;
+    }
+
+
+
+    .bottoboy .left_rob p {
+        color: #363636;
+        display: block;
+        margin: 0 0 0 0;
+        float: left;
+        width: 50%;
+        font-size: 16px;
+        margin-bottom: 4px;
+    }
+
+
+    .bottoboy .outer {
+        margin-bottom: 20px;
+    }
+
+    .bottoboy .left_rob {
+        width: 60%;
+        float: left;
+        padding-right: 20px;
+    }
+    .bottoboy .right_rob {
+        width: 40%;
+        float: left;
+    }
+
+
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .top-header{
+        padding: 15px 0;
+    }
+    .nav>li>a {
+        padding: 10px 10px;
+    }
+    .navbar-default .modal_btn a {
+        width: 190px;
+    }
+    .header-fixed .navbar-default .modal_btn a {
+        width: 190px;
+    }
+
+    .face h1 br{display: none}
+
+    .trest .trestab p {
+        font-size: 18px;
+    }
+
+    .girl .colba {
+        height: auto;
+    }
+    .obrazh .item {
+        height: auto;
+    }
+
+    .caruzo .prev.slick-arrow {
+        left: 0px;
+    }
+
+    .caruzo .next.slick-arrow {
+        right: 0;
+    }
+
+    footer .logo_wrapers .phone2 {
+        font-size: 21px;
+        text-align: center;
+    }
+
+    footer .menu_wraps ul li a {
+        font-size: 15px;
+        padding: 0 25px 0 0;
+    }
+
+    footer h4 {
+        font-size: 15px;
+        margin: 30px 0 10px 0;
+    }
+
+    .tarifs1 .top_text h4 {
+        font-size: 20px;
+        line-height: 130%;
+    }
+
+    .stoim .columns__container .columns__item p {
+        font-size: 18px;
+    }
+
+    .top-header img.logo {
+        max-width: 130px;
+    }
+    .navbar-default .modal_btn {
+        display: none;
+    }
+
+    .face h1 {
+        font-size: 26px;
+    }
+    .face p {
+        font-size: 16px;
+    }
+
+    .face .video {
+        padding: 3px 0 0 0;
+    }
+    .formas .blocd_wer {
+        background: #FFFFFF;
+        padding: 20px 20px;
+    }
+    .formas .textr_block {
+        margin: 0px 0 0 0;
+    }
+
+    .formas .textr_block p {
+        font-size: 16px;
+        margin: 0 0 20px 0;
+    }
+
+    footer{
+        text-align: center;
+    }
+
+    footer .menu_wraps ul {
+        display: flex;
+        flex-direction: row;
+        align-content: center;
+        justify-content: center;
+        margin: 20px 0 0 0;
+    }
+
+    footer .social_links {
+        width: fit-content;
+        margin: 0 auto;
+    }
+
+    footer .logo_wrapers .log img {
+        width: 155px;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .contacts .pole6 p {
+        font-size: 16px;
+        width: 300px;
+    }
+
+    .contacts .pole6 span {
+        width: calc(100% - 300px);
+        font-size: 16px;
+    }
+
+    .contacts .pole6 span a {
+        font-size: 16px;
+    }
+    .contacts .pole6 {
+        margin: 0 0 20px 0;
+        padding: 0 0 0 0;
+    }
+
+    .tarifs1 .columns__container .item {
+        padding: 15px 15px;
+        margin: 0 0px 20px 0px;
+    }
+
+    .stoim .columns__container .columns__item {
+        height: auto;
+    }
+
+
+
+    .work .left_rops {
+        width: 30%;
+        float: left;
+        padding: 0 15px 0 0;
+    }
+
+    .work .right_rops {
+        width: 70%;
+        float: left;
+        padding: 0 0 0 15px;
+    }
+    .work .tabmo button span {
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .work .tabmo button {
+        padding: 10px;
+        margin-bottom: 15px;
+    }
+    .work .tabmo button svg {
+        width: 20px;
+        margin-right: 20px;
+        height: 18px;
+    }
+
+
+    .work .right_rops .tabcontentmo p {
+        font-size: 18px;
+    }
+
+    .bottoboy .right_rob {
+        display: none;
+    }
+    .bottoboy .left_rob {
+        width: 100%;
+        float: left;
+        padding-right: 0;
+    }
+
+
+
+
+
+
+
+
+}
+
+
+
+@media (min-width: 320px) and  (max-width: 767px) {
+
+
+    .top-header{
+        padding: 15px 0;
+    }
+
+    .navbar-collapse-my {
+        float: left;
+        width: 100%;
+        background: #fff;
+        padding: 15px 0 20px 0px;
+        margin: 15px 0 0 0;
+    }
+    .navbar-default .navbar-nav>li>a {
+        font-size: 23px;
+        padding: 10px 0 10px 29px;
+    }
+
+    .navbar-default .modal_btn {
+        float: none;
+        margin: 10px auto;
+        display: block;
+        text-align: center;
+    }
+
+    .header-fixed .navbar-default .modal_btn a {
+        margin: 0 auto;
+    }
+
+    .face h1 {
+        font-size: 24px;
+        text-align: center;
+    }
+    .face p {
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .face a {
+        margin: 0 auto;
+        display: block;
+    }
+
+    .trest .trestab p {
+        font-size: 22px;
+        line-height: 120%;
+        color: #464646;
+        margin: 5px 0 20px 0;
+        padding: 0 0 0 0;
+    }
+
+
+    footer .menu_wraps ul {
+        display: block;
+        flex-direction: column;
+        align-content: center;
+        justify-content: flex-start;
+    }
+    .obrazh .columns__container {
+        column-count: 1;
+    }
+
+    .caruzo .next.slick-arrow{
+        width: 35px;
+        height: 35px;
+        padding: 9px;
+        right: 0px;
+        top: 30%;
+    }
+    .caruzo .prev.slick-arrow {
+        width: 35px;
+        height: 35px;
+        padding: 9px;
+        left: 0px;
+        top: 30%;
+    }
+    .girl .colba h2 {
+        font-size: 25px;
+        line-height: 105%;
+        margin: 0 0 15px 0;
+        color: #000;
+    }
+    .girl .colba p {
+        font-size: 14px;
+        line-height: 16px;
+        margin: 0 0 30px 0;
+        color: #000;
+        font-weight: 500;
+    }
+
+
+    .girl .colba {
+        background: #fff;
+        padding: 20px 15px 20px 18px;
+        height: auto;
+    }
+    .girl a {
+        background: #0DB88E;
+        padding: 11px 0px 11px 0px;
+        font-size: 16px;
+        line-height: 23px;
+        text-align: center;
+        color: #FFFFFF;
+        display: block;
+        max-width: 290px;
+        margin: 20px auto 0;
+    }
+
+    .girl {
+        padding: 0 0 50px 0;
+    }
+
+    .obrazh h2 {
+        padding: 0 0 30px 0;
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .obrazh .item {
+        padding: 15px 15px;
+        background: #fff;
+        margin: 0 0 15px 0;
+        height: auto;
+    }
+
+    .obrazh .item p {
+        font-size: 14px;
+        line-height: 140%;
+        color: #767373;
+        margin: 0 0 0 0;
+    }
+
+    .caruzo h2 {
+        font-size: 30px;
+        line-height: 150%;
+        color: #080F2A;
+        font-weight: 400;
+        margin: 0 0 25px 0;
+        text-align: center;
+    }
+
+
+    .caruzo .slide {
+        margin-right: 0px;
+    }
+
+    .process h2{
+        padding: 30px 0 30px 0;
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .process .climp a {
+        font-weight: normal;
+        font-size: 13px;
+        line-height: 150%;
+        color: #2F80ED;
+    }
+
+
+
+
+
+    .formas h2{
+        padding: 0px 0 30px 0;
+        font-size: 30px;
+        text-align: center;
+    }
+    .formas .blocd_wer {
+        background: #FFFFFF;
+        padding: 20px 20px;
+    }
+
+    .formas .textr_block p {
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 150%;
+        color: #000000;
+        margin: 0 0 25px 0;
+    }
+
+    footer{
+        text-align: center;
+    }
+
+    footer .menu_wraps ul {
+
+        justify-content: center;
+        margin: 20px 0 0 0;
+    }
+
+    footer .social_links {
+        width: fit-content;
+        margin: 0 auto;
+    }
+
+    footer .logo_wrapers .log img {
+        width: 155px;
+        display: block;
+        margin: 0 auto;
+    }
+
+
+    footer .logo_wrapers .phone2 {
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 35px;
+        display: block;
+        margin: 0 0 3px 0;
+        color: #000000;
+        text-align: center;
+        float: none;
+    }
+
+    footer .menu_wraps ul li a {
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 29px;
+        color: #333333;
+        margin: 0 0 0 0;
+        padding: 0 0px 0 0;
+    }
+    .process .climp span {
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 132%;
+        margin: 0 0 30px 0;
+        padding: 0 0 0 0;
+        color: #000000;
+        display: block;
+    }
+
+    footer .social_links li {
+        float: left;
+        margin-right: 10px;
+        margin-bottom: 14px;
+    }
+
+    footer .social_links li a img {
+        width: 38px;
+    }
+
+    .process .pust {
+        margin: 20px auto 0;
+        position: relative;
+        max-width: 1050px;
+        width: 100%;
+    }
+
+
+
+
+    .navbar-toggle {
+        margin-right: 0px;
+    }
+
+
+
+    .contacts h2 {
+        font-size: 30px;
+        text-align: center;
+    }
+    .tarifs1 h2 {
+        font-size: 30px;
+        line-height: 1.2;
+        text-align: center;
+    }
+    .stoim h2 {
+        font-size: 30px;
+        line-height: 1.2;
+        text-align: center;
+    }
+
+    .contacts .pole6 p {
+        width: 100%;font-weight: 500;
+    }
+
+    .contacts .pole6 span {
+        width: 100%;
+    }
+
+
+    .tarifs1 p.opust {
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 140%;
+        color: #262626;
+        margin: 0 0 60px 0;
+    }
+
+    .tarifs1 .columns__container {
+        column-count: 1;
+    }
+
+    .tarifs1 .columns__container .item {
+        padding: 20px 20px;
+        background: #fff;
+        margin: 0 7px 30px 7px;
+        height: auto;
+    }
+    .tarifs1 .top_text h4 {
+        font-size: 18px;
+        line-height: 1.2;
+        margin: 0 0 0 0;
+        color: #080F2A;
+    }
+
+    .tarifs1 .top_text span {
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 150%;
+        display: block;
+        margin: 0 0 0 0;
+        color: #767373;
+    }
+
+    .tarifs1 .bot_text span.on {
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 150%;
+        color: #2276BB;
+    }
+
+    .tarifs1 .bot_text span.off {
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 150%;
+        display: block;
+        margin: 15px 0 0 0;
+        padding: 0 0 0 0;
+        color: #BB6222;
+    }
+
+    .stoim .columns_tyu p {
+        font-size: 16px;
+    }
+
+    .stoim .columns__container .columns__item {
+        padding: 15px 15px;
+        background: #fff;
+        margin: 0 0 15px 0;
+        height: auto;
+    }
+    .stoim .columns__container {
+        column-count: 1;
+    }
+
+
+    .stoim .columns__container .columns__item h3 {
+        font-size: 20px;
+    }
+    .stoim .columns__container .columns__item p {
+        padding: 0px 0 0 0px;
+        margin: 0 0 0 0;
+        font-size: 16px;
+        line-height: 130%;
+        color: #767373;
+    }
+
+
+    .formas {
+        padding: 0px 0 50px 0;
+    }
+
+    .boot_menus ul {
+        margin-top: 20px;
+    }
+    .pritom h2.drops {
+        font-size: 30px;
+        line-height: 100%;
+        color: #080F2A;
+        font-weight: 400;
+        margin: 0 0 25px 0;
+        border-bottom: 1px solid #E0E0E0;
+        text-align: center;
+        padding: 0 0 23px 0;
+    }
+
+    .pritom ul li {
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 20px;
+        color: #000000;
+        padding: 0 0 0 0;
+        margin: 0 0 5px 0;
+    }
+    .pritom ul li span {
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 36px;
+        color: #5f5f5f;
+        padding: 0 0 0 0;
+        margin: 0 0 0 0;
+    }
+
+    .pritom p {
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 24px;
+        color: #000000;
+        padding: 0 0 0 0;
+        margin: 0 0 35px 0;
+    }
+
+
+
+
+
+
+
+    .shefrim p {
+        font-size: 16px;
+    }
+
+    .efim h2 {
+        font-size: 25px;
+        line-height: 130%;
+        color: #080F2A;
+        margin: 18px 0 7px 0;
+        padding: 0 0 0 0;
+        font-weight: 400;
+    }
+    .efim p {
+        margin: 0 0 10px 0;
+        padding: 0 0 0 0;
+        font-size: 19px;
+        line-height: 120%;
+        color: #2B2B2B;
+    }
+
+
+    .work .left_rops {
+        width: 100%;
+        float: left;
+        padding: 0 0px 0 0;
+    }
+
+    .work .right_rops {
+        width: 100%;
+        float: left;
+        padding: 0 0 0 0px;
+    }
+    .work .right_rops .tabcontentmo p {
+        font-size: 18px;
+        line-height: 140%;
+        color: #6d6d6d;
+        margin: 0 0 15px 0;
+    }
+
+    .work .tabmo button span {
+        font-size: 20px;
+        line-height: 22px;
+    }
+
+
+    .work .tabmo button {
+        padding: 14px;
+        margin-bottom: 14px;
+    }
+
+    .bottoboy .left_rob p {
+        width: 100%;
+    }
+    .bottoboy .left_rob {
+        width: 100%;
+        float: left;
+        padding-right: 0;
+    }
+    .bottoboy .right_rob {
+        width: 45%;
+        float: left;
+        display: none;
+    }
+}
+
+
+
+
+
+
